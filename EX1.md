@@ -1,5 +1,5 @@
 # Ex.No:1
-# Ex.Name Write a CPP program to INSERT 5 elements into the Singly Linked List Using STL and Display the same.Date:
+# Ex.Name Write a CPP program to INSERT 5 elements into the Singly Linked List Using STL and Display the same.
 ## Aim:
 To write a C++ program to insert 5 elements into a singly linked list using STL forward_list and display the elements.
 
